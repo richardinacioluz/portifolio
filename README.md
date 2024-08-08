@@ -2,7 +2,7 @@
 
 ## Este é o meu primeiro projeto, criado durante meus estudos na Alura de HTML e CSS.
 
-![image](https://github.com/user-attachments/assets/6ce3a997-4fa2-449f-978c-9b4cc1adbca2)
+![templante do portifolio](https://github.com/user-attachments/assets/44ae746a-04ef-49d9-a166-336812aeb8d7)
 
 ## Ferramentas utilizadas:
 * HTML
